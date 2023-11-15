@@ -6,9 +6,9 @@ Over the years, I've jumped into different companies, playing the tech superhero
 
 Sharing what I know is my jam. I've been hitting up conferences and workshops, helping other devs level up their skills. It's super rewarding to see others grow and get those "aha!" moments.
 
-I've also embarked on a new adventure - my own YouTube channel! Here, I share insights, tricks, and lessons from my tech journey, and explore new trends in software architecture. Check it out and join me in this ever-evolving world of coding!
+🎥 I've also embarked on a new adventure - my own YouTube channel! Here, I share insights, tricks, and lessons from my tech journey, and explore new trends in software architecture. Check it out and join me in this ever-evolving world of coding!
 
-When I'm not coding, I'm buried in books - from cutting-edge tech manuals to timeless classics. These books are not just about coding; they offer insights into how technology intersects with business, market trends, and consumer behaviours. While I'm always looking ahead, learning the latest programming languages and techniques, I never forget to glance back at the wisdom of the past.
+📚 When I'm not coding, I'm buried in books - from cutting-edge tech manuals to timeless classics. These books are not just about coding; they offer insights into how technology intersects with business, market trends, and consumer behaviours. While I'm always looking ahead, learning the latest programming languages and techniques, I never forget to glance back at the wisdom of the past.
 
 So, that's a glimpse into my world - a blend of code, sharing, learning, and continuous growth. Thanks for stopping by, and I hope you'll engage with my content and share your own coding stories.
 
